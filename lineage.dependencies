@@ -1,0 +1,10 @@
+[
+    {
+        "repository": "android_kernel_samsung_m51",
+        "target_path": "device/kernel/m51"
+    },
+    {
+        "repository": "android_device_samsung_sm6150-common",
+        "target_path": "device/samsung/sm6150-common"
+    }
+]
